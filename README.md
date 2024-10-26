@@ -5,8 +5,8 @@
 </div>
 
 ![license](https://img.shields.io/github/license/synthous/OpenPOT)
-[![Shield1](https://img.shields.io/badge/Releases-1.0-yellow)](https://github.com/nslashtech/NSlashScript/releases)
-[![Shield2](https://img.shields.io/badge/Issues-yellow)](https://github.com/nslashtech/NSlashScript/issues)
+[![Shield1](https://img.shields.io/badge/Releases-1.0-yellow)](https://github.com/synthous/OpenPOT/releases)
+[![Shield2](https://img.shields.io/badge/Issues-yellow)](https://github.com/synthous/OpenPOT/issues)
 
 OpenPOT it's a open source OS in terminal
 
