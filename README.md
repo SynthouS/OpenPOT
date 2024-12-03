@@ -30,7 +30,3 @@ hgpk <filename.py> = Move file from storage to Hugo and change extension to .hgp
 clean = Clear the screen
 ls = List files and directories in 'storage'
 ```
-
-# Contributing
-
-to become a contributor you need to post bugs in issues, or make kernel and os corrections on reddit with #openPOT or #Pkt
